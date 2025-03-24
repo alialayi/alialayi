@@ -12,12 +12,11 @@
 ```py
 from City.Ardabil import Human
 
-class Shahriaarrr(Human):
+class Ali(Human):
     full_name = "Ali Alayi"
-    education = "BS student in Computer Engineering"
+    education = "student in Computer Engineering"
 
     programming_lang = ["kotlin", "java", "php", "python"]
-    frameworks = ["Django", "Django REST", "numpy", "express"]
 
     Favorites = [
         "computer",
@@ -25,14 +24,13 @@ class Shahriaarrr(Human):
         "AI",
         "book", 
         "writting",
-        "music produce",
+        "parkour",
     ]
     Learning = [
-        "Computer Engineering",
-        "Bunjs",
+        "crypto",
         "software engineering",
     ]
-    working_on = ["level up my skills", "Yotoo Notify", "simple fastAPI project", "simple nestjs project"]
+    working_on = ["level up my skills"]
 
 ```
 
@@ -55,12 +53,10 @@ class Shahriaarrr(Human):
 
 ## 🚀 My Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+ <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+ <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </p>
 
 ## 💬 Let's Connect!
