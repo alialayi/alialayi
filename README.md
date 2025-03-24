@@ -10,14 +10,13 @@
 
 ## Who i am?
 ```py
-from Universe.Earth import Human
+from City.Ardabil import Human
 
 class Shahriaarrr(Human):
-    full_name = "Shahriar Ghasempour"
-    age = 22
+    full_name = "Ali Alayi"
     education = "BS student in Computer Engineering"
 
-    programming_lang = ["python", "Go", "java", "js", "type script"]
+    programming_lang = ["kotlin", "java", "php", "python"]
     frameworks = ["Django", "Django REST", "numpy", "express"]
 
     Favorites = [
