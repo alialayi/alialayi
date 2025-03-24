@@ -44,17 +44,12 @@ class Ali(Human):
 </table>
 
 ## 🚀 My Skills
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img style="border-radius: 12px;" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img style="border-radius: 12px;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img style="border-radius: 12px;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img style="border-radius: 12px;" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<p align="center">
+  <img class="rounded-image" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img class="rounded-image" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img class="rounded-image" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img class="rounded-image" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
-<style>
-  .rounded-image {
-    border-radius: 50%;
-  }
-</style>
 
 ## 💬 Let's Connect!
 <p align="center">
