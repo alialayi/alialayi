@@ -51,6 +51,12 @@ class Ali(Human):
  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </p>
 
+<style>
+  .rounded-image {
+    border-radius: 50%;
+  }
+</style>
+
 ## 💬 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/alialayi/">
