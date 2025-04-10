@@ -3,7 +3,7 @@
 <h3 align="center">A young programmer interested in creating android applications</h3>
 
 - 💬 Ask me about **Android Development / Back-End PHP**
-- 📫 How to reach me **https://t.me/mralayi**
+- 📫 How to reach me **https://t.me/MrAlayi**
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230E6EAA.svg?logo=Telegram&logoColor=white)](https://telegram.me/MrAlayi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-alayi-789964349) 
