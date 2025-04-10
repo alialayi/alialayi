@@ -53,7 +53,7 @@ class Ali(Human):
 
 ## 💬 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/alialayi/">
+  <a href="https://www.linkedin.com/in/ali-alayi-789964349/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
